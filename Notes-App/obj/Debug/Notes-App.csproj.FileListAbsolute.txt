@@ -1,0 +1,10 @@
+C:\Users\Devin\Desktop\Dev\Notes-App\Notes-App\bin\Debug\Notes-App.exe.config
+C:\Users\Devin\Desktop\Dev\Notes-App\Notes-App\bin\Debug\Notes-App.exe
+C:\Users\Devin\Desktop\Dev\Notes-App\Notes-App\bin\Debug\Notes-App.pdb
+C:\Users\Devin\Desktop\Dev\Notes-App\Notes-App\obj\Debug\Notes-App.csprojAssemblyReference.cache
+C:\Users\Devin\Desktop\Dev\Notes-App\Notes-App\obj\Debug\Notes_App.Form1.resources
+C:\Users\Devin\Desktop\Dev\Notes-App\Notes-App\obj\Debug\Notes_App.Properties.Resources.resources
+C:\Users\Devin\Desktop\Dev\Notes-App\Notes-App\obj\Debug\Notes-App.csproj.GenerateResource.cache
+C:\Users\Devin\Desktop\Dev\Notes-App\Notes-App\obj\Debug\Notes-App.csproj.CoreCompileInputs.cache
+C:\Users\Devin\Desktop\Dev\Notes-App\Notes-App\obj\Debug\Notes-App.exe
+C:\Users\Devin\Desktop\Dev\Notes-App\Notes-App\obj\Debug\Notes-App.pdb
