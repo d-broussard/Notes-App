@@ -7,7 +7,7 @@
     <ProjectGuid>{A4109413-33A7-4961-A106-60C14909023E}</ProjectGuid>
     <OutputType>WinExe</OutputType>
     <RootNamespace>Notes_App</RootNamespace>
-    <AssemblyName>Notes-App</AssemblyName>
+    <AssemblyName>StickyNotes</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
